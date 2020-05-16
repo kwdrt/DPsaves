@@ -24,6 +24,8 @@ To turn off, kill python in task manager.
 
 This program should not be using many resources, only about 17MB of RAM.
 
+Don't mind the print commands, these are for console debugging.
+
 Remember to remove the timestamp before restoring any save - change name to "dp.sav".
 
 Probably does not make DP crash, hard to tell because the damn game crashes anyway all the time.
