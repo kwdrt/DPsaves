@@ -2,7 +2,7 @@
 Makes copy of Deadly Premonition save in regular intervals with timestamp.
 
 # What you need:
-Python 3.x - https://www.python.org/downloads/
+Install Python 3.x - https://www.python.org/downloads/
 
 # Setup
 Open Dpsaves.py in any text editor, Notepad is enough.
